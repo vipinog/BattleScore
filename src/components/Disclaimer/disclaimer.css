@@ -1,0 +1,21 @@
+.disclaimer {
+    background-color: #ffd700; /* Yellow background color */
+    color: #333; /* Dark text color */
+    padding: 1px; /* Add some padding for spacing */
+    text-align: center; /* Center-align text */
+    position: fixed; /* Fixed positioning to keep it at the top */
+    top: 0; /* Align it to the top */
+    left: 0; /* Align it to the left */
+    width: 100%; /* Make it cover the full width */
+    border-radius: 10px; /* Add rounded corners */
+    z-index: 999; /* Ensure it's above other content */
+    box-sizing: border-box; /* Include padding in width calculation */
+    font-weight: bold;
+  }
+  
+  .disclaimer a {
+    color: #333; /* Dark text color for the link */
+    text-decoration: underline; /* Underline the link */
+    
+  }
+  
