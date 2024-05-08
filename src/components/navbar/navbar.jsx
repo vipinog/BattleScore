@@ -57,7 +57,7 @@ function Navbar() {
                   to="/"
                   className={({isActive}) =>
                   `block py-2 pr-4 pl-3 duration-200 border-b border-gray-100 
-                  ${isActive ? "text-orange-700" : "text-white" } lg:hover:bg-transparent lg:border-0 hover:text-orange-700 lg:p-0`
+                  ${isActive ? "text-orange-700" : "text-yellow-400" } lg:hover:bg-transparent lg:border-0 hover:text-orange-700 lg:p-0`
               }
           >
                   Home
@@ -81,7 +81,7 @@ function Navbar() {
                   to="/result"
                   className={({isActive}) =>
                   `block py-2 pr-4 pl-3 duration-200 border-b border-gray-100 
-                  ${isActive ? "text-orange-700" : "text-white" } lg:hover:bg-transparent lg:border-0 hover:text-orange-700 lg:p-0`
+                  ${isActive ? "text-orange-700" : "text-yellow-400" } lg:hover:bg-transparent lg:border-0 hover:text-orange-700 lg:p-0`
               }
           >
                   Result
@@ -92,7 +92,7 @@ function Navbar() {
                   to="/records"
                   className={({isActive}) =>
                   `block py-2 pr-4 pl-3 duration-200 border-b border-gray-100 
-                  ${isActive ? "text-orange-700" : "text-white" } lg:hover:bg-transparent lg:border-0 hover:text-orange-700 lg:p-0`
+                  ${isActive ? "text-orange-700" : "text-yellow-400" } lg:hover:bg-transparent lg:border-0 hover:text-orange-700 lg:p-0`
               }
           >
                   Records
@@ -103,7 +103,7 @@ function Navbar() {
                   to="/about"
                   className={({isActive}) =>
                   `block py-2 pr-4 pl-3 duration-200 border-b border-gray-100 
-                  ${isActive ? "text-orange-700" : "text-white" } lg:hover:bg-transparent lg:border-0 hover:text-orange-700 lg:p-0`
+                  ${isActive ? "text-orange-700" : "text-yellow-400" } lg:hover:bg-transparent lg:border-0 hover:text-orange-700 lg:p-0`
               }
           >
                   About Us
