@@ -59,14 +59,14 @@ function About() {
               PUBG MOBILE. We're eager to build cool things around it.
             </p>
           </div>
-          <div className="lg:w-1/2 mb-8 lg:mb-0 mt-8">
+{/*           <div className="lg:w-1/2 mb-8 lg:mb-0 mt-8">
             <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">
-              How are we going to make money $
+              drth
             </h2>
             <p className="mt-4 text-lg font-bold text-gray-500">
-              Let's chat on Mail.
+              Let's
             </p>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
